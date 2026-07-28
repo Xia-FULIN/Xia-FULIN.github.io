@@ -44,6 +44,28 @@ EnergyCEA 是用于量化植物工厂能耗影响因素与气候敏感性的多�
 Paper DOI: https://doi.org/10.1016/j.apenergy.2026.127824
 Project page: https://fulin-xia.xyz/research/plant-factory-energy-simulation
 
+## Related AI for Agriculture contributions / 农业 AI 相关成果
+
+These publications establish complementary experience in agricultural sensing, multimodal learning, plant phenotyping, and precision crop protection. They are related contributions rather than the primary evidence for the controlled-environment agriculture projects above.
+
+以下成果体现了夏福霖在农业传感、多模态学习、作物表型与精准植保方面的相关积累；它们是设施农业主线之外的农业 AI 相关成果。
+
+### Multimodal deep learning for weed resistance / 杂草抗性多模态深度学习
+
+**Weed resistance assessment through airborne multimodal data fusion and deep learning: A novel approach towards sustainable agriculture**. *International Journal of Applied Earth Observation and Geoinformation* (2023). First author: Fulin Xia. The work combines UAV spectral, structural, and texture features with deep learning to assess weed resistance and generate resistance maps.
+
+《基于机载多模态数据融合与深度学习的杂草抗性评估：面向可持续农业的新方法》。该研究以无人机光谱、结构与纹理信息为基础，利用多模态深度学习评估杂草抗性并生成空间分布图。
+
+DOI: https://doi.org/10.1016/j.jag.2023.103352
+
+### Crop stress sensing / 作物胁迫传感
+
+**Monitoring weed mechanical and chemical damage stress based on chlorophyll fluorescence imaging**. *Frontiers in Plant Science* (2023). Fulin Xia is a co-author. The work uses chlorophyll fluorescence imaging to monitor mechanical and chemical stress responses in weeds.
+
+《基于叶绿素荧光成像的杂草机械与化学损伤胁迫监测》。该研究利用叶绿素荧光成像监测杂草对机械和化学胁迫的响应。
+
+DOI: https://doi.org/10.3389/fpls.2023.1188981
+
 ## Author and source records / 作者与来源
 
 - Homepage: https://fulin-xia.xyz/
