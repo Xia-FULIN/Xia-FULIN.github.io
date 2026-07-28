@@ -1,0 +1,8 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    { "@type": "ResearchProject", "name": "AutoCEA", "creator": { "@id": "https://xia-fulin.github.io/#fulin-xia" }, "about": ["Autonomous Greenhouse", "Controlled Environment Agriculture", "Greenhouse Climate Control"] },
+    { "@type": "ResearchProject", "name": "ChatCEA", "creator": { "@id": "https://xia-fulin.github.io/#fulin-xia" }, "about": ["AI Agent for Agriculture", "Agriculture LLM", "Controlled Environment Agriculture"], "url": "https://doi.org/10.1016/j.compag.2026.111733" },
+    { "@type": "ResearchProject", "name": "EnergyCEA", "creator": { "@id": "https://xia-fulin.github.io/#fulin-xia" }, "about": ["Plant Factory", "Vertical Farming", "Energy Optimization", "Agricultural Digital Twin"], "url": "https://doi.org/10.1016/j.apenergy.2026.127824" }
+  ]
+}

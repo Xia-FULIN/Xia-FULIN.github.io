@@ -1,0 +1,26 @@
+{
+  "name": "Fulin Xia",
+  "alternate_names": ["\u590f\u798f\u9716", "XIA Fulin"],
+  "url": "https://xia-fulin.github.io/",
+  "affiliation": "Zhejiang University",
+  "research_identity": "PhD researcher in AI-driven Controlled Environment Agriculture",
+  "research_domains": [
+    { "name": "AI for Agriculture", "keywords": ["Artificial Intelligence in Agriculture", "Smart Agriculture", "Digital Agriculture"] },
+    { "name": "Controlled Environment Agriculture", "keywords": ["\u8bbe\u65bd\u519c\u4e1a", "Controlled Environment Agriculture", "Intelligent CEA"] },
+    { "name": "Autonomous Greenhouse", "keywords": ["\u667a\u80fd\u6e29\u5ba4", "Autonomous Greenhouse", "Greenhouse Climate Control", "Greenhouse Automation"] },
+    { "name": "Plant Factory", "keywords": ["\u690d\u7269\u5de5\u5382", "Plant Factory", "Vertical Farming", "Indoor Farming"] },
+    { "name": "Agricultural AI Agents", "keywords": ["\u519c\u4e1a\u5927\u6a21\u578b", "Agricultural Foundation Model", "AI Agent for Agriculture", "Agriculture LLM"] },
+    { "name": "Digital Twins and Control", "keywords": ["\u519c\u4e1a\u6570\u5b57\u5b6a\u751f", "Agricultural Digital Twin", "Crop Growth Model", "Model Predictive Control", "Closed-loop Control"] }
+  ],
+  "projects": [
+    { "name": "AutoCEA", "focus": "crop-state-driven autonomous greenhouse control", "topics": ["Autonomous Greenhouse", "Tomato Greenhouse Control", "Crop Intelligence"] },
+    { "name": "ChatCEA", "focus": "knowledge-driven intelligent service agent for controlled environment agriculture", "topics": ["AI Agent for Agriculture", "Agriculture LLM", "Retrieval-Augmented Generation"], "url": "https://doi.org/10.1016/j.compag.2026.111733" },
+    { "name": "EnergyCEA", "focus": "multi-zone dynamic simulation of energy determinants and climate sensitivity in plant factories", "topics": ["Plant Factory", "Vertical Farming", "Energy Optimization", "Strawberry Production"], "url": "https://doi.org/10.1016/j.apenergy.2026.127824" }
+  ],
+  "applications": ["Tomato production", "Strawberry production", "Lettuce production"],
+  "evidence": {
+    "championship": "https://www.wur.nl/en/news/winner-4th-autonomous-greenhouse-challenge-announced",
+    "scholar": "https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=x4_uzuYAAAAJ",
+    "code": "https://github.com/IDEAS-ZJU/ChatCEA"
+  }
+}

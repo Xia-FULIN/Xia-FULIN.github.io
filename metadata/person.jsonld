@@ -1,0 +1,11 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://xia-fulin.github.io/#fulin-xia",
+  "name": "Fulin Xia",
+  "alternateName": ["夏福霖", "XIA Fulin"],
+  "url": "https://xia-fulin.github.io/",
+  "jobTitle": "PhD Researcher in AI-driven Controlled Environment Agriculture",
+  "affiliation": { "@type": "CollegeOrUniversity", "name": "Zhejiang University" },
+  "knowsAbout": ["AI for Agriculture", "Controlled Environment Agriculture", "Plant Factory", "Autonomous Greenhouse", "Agricultural AI Agent", "Agricultural Digital Twin"]
+}
