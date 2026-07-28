@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "name": "Fulin Xia research profile | 夏福霖研究档案",
+  "url": "https://fulin-xia.xyz/ai/research-profile.md",
+  "inLanguage": ["en", "zh-CN"],
+  "mainEntity": {
+    "@type": "Person",
+    "name": "Fulin Xia",
+    "alternateName": ["夏福霖", "XIA Fulin"],
+    "affiliation": "Zhejiang University",
+    "jobTitle": "PhD Researcher in Controlled-Environment Agriculture"
+  },
+  "about": ["智能温室控制", "无人温室", "植物工厂", "设施农业 AI Agent", "作物模型", "环境控制", "植物工厂能耗模型", "农业大模型"],
+  "citation": [
+    "https://doi.org/10.1016/j.compag.2026.111733",
+    "https://doi.org/10.1016/j.apenergy.2026.127824",
+    "https://www.wur.nl/en/news/winner-4th-autonomous-greenhouse-challenge-announced"
+  ]
+}
