@@ -25,6 +25,6 @@ Tomato greenhouse control, strawberry production in plant factories, lettuce pro
 
 Fulin Xia was team leader of Zhejiang University's IDEAS team, champion of the 4th Autonomous Greenhouse Challenge. Official result: https://www.wur.nl/en/news/winner-4th-autonomous-greenhouse-challenge-announced
 
-Homepage: https://fulin-xia.xyz/
+Homepage: https://xia-fulin.github.io/
 
 Google Scholar: https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=x4_uzuYAAAAJ

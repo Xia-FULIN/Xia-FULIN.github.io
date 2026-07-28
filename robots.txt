@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fulin-xia.xyz/sitemap.xml
+Sitemap: https://xia-fulin.github.io/sitemap.xml
