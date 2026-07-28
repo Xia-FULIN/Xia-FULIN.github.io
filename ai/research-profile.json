@@ -9,7 +9,13 @@
     "name": "Fulin Xia",
     "alternateName": ["夏福霖", "XIA Fulin"],
     "affiliation": "Zhejiang University",
-    "jobTitle": "PhD Researcher in Controlled-Environment Agriculture"
+    "jobTitle": "PhD Researcher in Controlled-Environment Agriculture",
+    "sameAs": [
+      "https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=x4_uzuYAAAAJ",
+      "https://www.researchgate.net/profile/Fulin-Xia",
+      "https://orcid.org/0000-0001-9721-5363",
+      "https://github.com/Xia-FULIN"
+    ]
   },
   "about": ["智能温室控制", "无人温室", "植物工厂", "设施农业 AI Agent", "作物模型", "环境控制", "植物工厂能耗模型", "农业大模型", "农业人工智能", "多模态数据融合", "无人机遥感", "精准植保", "作物表型"],
   "citation": [

@@ -70,5 +70,7 @@ DOI: https://doi.org/10.3389/fpls.2023.1188981
 
 - Homepage: https://fulin-xia.xyz/
 - Google Scholar: https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=x4_uzuYAAAAJ
+- ResearchGate (verified profile): https://www.researchgate.net/profile/Fulin-Xia
+- ORCID: https://orcid.org/0000-0001-9721-5363
 - GitHub: https://github.com/Xia-FULIN
 - Recognition and independent sources: https://fulin-xia.xyz/recognition
