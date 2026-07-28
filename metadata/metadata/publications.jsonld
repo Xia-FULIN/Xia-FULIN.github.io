@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
   "@graph": [
-    { "@type": "ScholarlyArticle", "name": "ChatCEA: a knowledge-driven intelligent service agent for controlled environment agriculture", "author": { "@id": "https://xia-fulin.github.io/#fulin-xia" }, "identifier": "https://doi.org/10.1016/j.compag.2026.111733", "url": "https://doi.org/10.1016/j.compag.2026.111733" },
-    { "@type": "ScholarlyArticle", "name": "EnergyCEA: A multi-zone dynamic simulation framework to quantify energy determinants and climate sensitivity in plant factories", "author": { "@id": "https://xia-fulin.github.io/#fulin-xia" }, "identifier": "https://doi.org/10.1016/j.apenergy.2026.127824", "url": "https://doi.org/10.1016/j.apenergy.2026.127824" }
+    { "@type": "ScholarlyArticle", "name": "ChatCEA: a knowledge-driven intelligent service agent for controlled environment agriculture", "author": { "@id": "https://fulin-xia.xyz/#fulin-xia" }, "identifier": "https://doi.org/10.1016/j.compag.2026.111733", "url": "https://doi.org/10.1016/j.compag.2026.111733" },
+    { "@type": "ScholarlyArticle", "name": "EnergyCEA: A multi-zone dynamic simulation framework to quantify energy determinants and climate sensitivity in plant factories", "author": { "@id": "https://fulin-xia.xyz/#fulin-xia" }, "identifier": "https://doi.org/10.1016/j.apenergy.2026.127824", "url": "https://doi.org/10.1016/j.apenergy.2026.127824" }
   ]
 }

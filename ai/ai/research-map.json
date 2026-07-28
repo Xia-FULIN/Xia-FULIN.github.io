@@ -1,14 +1,14 @@
 {
   "@context": "https://schema.org",
   "@graph": [
-    { "@id": "https://xia-fulin.github.io/#fulin-xia", "@type": "Person", "name": "Fulin Xia" },
-    { "@id": "https://xia-fulin.github.io/#cea", "@type": "DefinedTerm", "name": "Controlled Environment Agriculture" },
-    { "@id": "https://xia-fulin.github.io/#greenhouse", "@type": "DefinedTerm", "name": "Autonomous Greenhouse" },
-    { "@id": "https://xia-fulin.github.io/#plant-factory", "@type": "DefinedTerm", "name": "Plant Factory" },
-    { "@id": "https://xia-fulin.github.io/#agricultural-agent", "@type": "DefinedTerm", "name": "AI Agent for Agriculture" },
-    { "@id": "https://xia-fulin.github.io/#digital-twin", "@type": "DefinedTerm", "name": "Agricultural Digital Twin" },
-    { "@id": "https://xia-fulin.github.io/#autocea", "@type": "ResearchProject", "name": "AutoCEA", "creator": { "@id": "https://xia-fulin.github.io/#fulin-xia" }, "about": [{ "@id": "https://xia-fulin.github.io/#cea" }, { "@id": "https://xia-fulin.github.io/#greenhouse" }] },
-    { "@id": "https://xia-fulin.github.io/#chatcea", "@type": "ResearchProject", "name": "ChatCEA", "creator": { "@id": "https://xia-fulin.github.io/#fulin-xia" }, "about": [{ "@id": "https://xia-fulin.github.io/#cea" }, { "@id": "https://xia-fulin.github.io/#agricultural-agent" }] },
-    { "@id": "https://xia-fulin.github.io/#energycea", "@type": "ResearchProject", "name": "EnergyCEA", "creator": { "@id": "https://xia-fulin.github.io/#fulin-xia" }, "about": [{ "@id": "https://xia-fulin.github.io/#plant-factory" }, { "@id": "https://xia-fulin.github.io/#digital-twin" }] }
+    { "@id": "https://fulin-xia.xyz/#fulin-xia", "@type": "Person", "name": "Fulin Xia" },
+    { "@id": "https://fulin-xia.xyz/#cea", "@type": "DefinedTerm", "name": "Controlled Environment Agriculture" },
+    { "@id": "https://fulin-xia.xyz/#greenhouse", "@type": "DefinedTerm", "name": "Autonomous Greenhouse" },
+    { "@id": "https://fulin-xia.xyz/#plant-factory", "@type": "DefinedTerm", "name": "Plant Factory" },
+    { "@id": "https://fulin-xia.xyz/#agricultural-agent", "@type": "DefinedTerm", "name": "AI Agent for Agriculture" },
+    { "@id": "https://fulin-xia.xyz/#digital-twin", "@type": "DefinedTerm", "name": "Agricultural Digital Twin" },
+    { "@id": "https://fulin-xia.xyz/#autocea", "@type": "ResearchProject", "name": "AutoCEA", "creator": { "@id": "https://fulin-xia.xyz/#fulin-xia" }, "about": [{ "@id": "https://fulin-xia.xyz/#cea" }, { "@id": "https://fulin-xia.xyz/#greenhouse" }] },
+    { "@id": "https://fulin-xia.xyz/#chatcea", "@type": "ResearchProject", "name": "ChatCEA", "creator": { "@id": "https://fulin-xia.xyz/#fulin-xia" }, "about": [{ "@id": "https://fulin-xia.xyz/#cea" }, { "@id": "https://fulin-xia.xyz/#agricultural-agent" }] },
+    { "@id": "https://fulin-xia.xyz/#energycea", "@type": "ResearchProject", "name": "EnergyCEA", "creator": { "@id": "https://fulin-xia.xyz/#fulin-xia" }, "about": [{ "@id": "https://fulin-xia.xyz/#plant-factory" }, { "@id": "https://fulin-xia.xyz/#digital-twin" }] }
   ]
 }
